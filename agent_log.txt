@@ -1,0 +1,237 @@
+
+
+=== Scrape Session at 2025-05-11 22:07:59.172800 ===
+Target: tesla.com - https://tesla.com
+Resolved IP: 2.18.49.207
+Open Ports: [80, 443]
+Strategy: Dynamic (Selenium) scrape
+Top Content:
+
+No services found.
+No categories found.
+No locations found.
+No obvious post/article links found.
+
+Structured Data (Wikipedia):
+Formerly: Tesla Motors, Inc. (2003–2017)
+Company type: Public
+Traded as: Nasdaq: TSLANasdaq-100 componentS&P 100 componentS&P 500 component
+ISIN: US88160R1014
+Industry: AutomotiveRenewable energy
+Founded: July 1, 2003; 21 years ago (2003-07-01) in San Carlos, California, U.S.
+Founders: Martin EberhardMarc Tarpenning(See § Founding)
+Headquarters: Austin, Texas, U.S.
+Number of locations: 1,359 sales, service and delivery centers 7,000 Supercharger stations[1]
+Area served: East Asia
+Europe
+Middle East
+North America
+Oceania
+Southeast Asia
+Key people: Elon Musk (CEO)Robyn Denholm (chair)
+Products: Cybertruck
+Megapack
+Model 3
+Model S
+Model X
+Model Y
+Powerwall
+Semi
+Solar Panels
+Solar Roof
+Production output: 1,773,443 vehicles (2024) 31.4 GWh battery energy storage systems (2024)
+Services: Charging
+insurance
+maintenance
+Revenue: US$97.7 billion (2024)
+Operating income: US$7.1 billion (2024)
+Net income: US$7.1 billion (2024)
+Total assets: US$122.1 billion (2024)
+Total equity: US$72.9 billion (2024)
+Owner: Elon Musk (13%)[2]
+Number of employees: 125,665 (2024)
+Subsidiaries: Tesla AutomationTesla Energy
+ASN: 394161
+Website: tesla.com
+
+
+=== Scrape Session at 2025-05-11 22:14:35.477255 ===
+Target: tesla.com - https://tesla.com
+Resolved IP: 2.18.48.207
+Open Ports: [80, 443]
+Strategy: Dynamic (Selenium) scrape
+Top Content:
+
+No services found.
+No categories found.
+No locations found.
+No obvious post/article links found.
+
+Structured Data (Wikipedia):
+Formerly: Tesla Motors, Inc. (2003–2017)
+Company type: Public
+Traded as: Nasdaq: TSLANasdaq-100 componentS&P 100 componentS&P 500 component
+ISIN: US88160R1014
+Industry: AutomotiveRenewable energy
+Founded: July 1, 2003; 21 years ago (2003-07-01) in San Carlos, California, U.S.
+Founders: Martin EberhardMarc Tarpenning(See § Founding)
+Headquarters: Austin, Texas, U.S.
+Number of locations: 1,359 sales, service and delivery centers 7,000 Supercharger stations[1]
+Area served: East Asia
+Europe
+Middle East
+North America
+Oceania
+Southeast Asia
+Key people: Elon Musk (CEO)Robyn Denholm (chair)
+Products: Cybertruck
+Megapack
+Model 3
+Model S
+Model X
+Model Y
+Powerwall
+Semi
+Solar Panels
+Solar Roof
+Production output: 1,773,443 vehicles (2024) 31.4 GWh battery energy storage systems (2024)
+Services: Charging
+insurance
+maintenance
+Revenue: US$97.7 billion (2024)
+Operating income: US$7.1 billion (2024)
+Net income: US$7.1 billion (2024)
+Total assets: US$122.1 billion (2024)
+Total equity: US$72.9 billion (2024)
+Owner: Elon Musk (13%)[2]
+Number of employees: 125,665 (2024)
+Subsidiaries: Tesla AutomationTesla Energy
+ASN: 394161
+Website: tesla.com
+
+
+=== Scrape Session at 2025-05-11 22:16:07.716054 ===
+Target: tesla.com - https://tesla.com
+Resolved IP: 2.18.48.207
+Open Ports: [80, 443]
+Strategy: Dynamic (Selenium) scrape
+Top Content:
+
+No services found.
+No categories found.
+No locations found.
+No obvious post/article links found.
+
+Structured Data (Wikipedia):
+Formerly: Tesla Motors, Inc. (2003–2017)
+Company type: Public
+Traded as: Nasdaq: TSLANasdaq-100 componentS&P 100 componentS&P 500 component
+ISIN: US88160R1014
+Industry: AutomotiveRenewable energy
+Founded: July 1, 2003; 21 years ago (2003-07-01) in San Carlos, California, U.S.
+Founders: Martin EberhardMarc Tarpenning(See § Founding)
+Headquarters: Austin, Texas, U.S.
+Number of locations: 1,359 sales, service and delivery centers 7,000 Supercharger stations[1]
+Area served: East Asia
+Europe
+Middle East
+North America
+Oceania
+Southeast Asia
+Key people: Elon Musk (CEO)Robyn Denholm (chair)
+Products: Cybertruck
+Megapack
+Model 3
+Model S
+Model X
+Model Y
+Powerwall
+Semi
+Solar Panels
+Solar Roof
+Production output: 1,773,443 vehicles (2024) 31.4 GWh battery energy storage systems (2024)
+Services: Charging
+insurance
+maintenance
+Revenue: US$97.7 billion (2024)
+Operating income: US$7.1 billion (2024)
+Net income: US$7.1 billion (2024)
+Total assets: US$122.1 billion (2024)
+Total equity: US$72.9 billion (2024)
+Owner: Elon Musk (13%)[2]
+Number of employees: 125,665 (2024)
+Subsidiaries: Tesla AutomationTesla Energy
+ASN: 394161
+Website: tesla.com
+
+
+=== Scrape Session at 2025-05-11 22:17:36.532402 ===
+Target: www.mygsn.co.uk - https://www.mygsn.co.uk/
+Resolved IP: 159.65.214.155
+Open Ports: [80, 443]
+Strategy: Static scrape
+Top Content:
+The UK's favourite healthy frozen food solution.
+Elevate your evenings!
+For over 10 years GSN has stood for one simple idea - healthy and tasty food should be easy.That's the Gold Standard.
+
+
+No services found.
+No categories found.
+No locations found.
+Possible blog/news/article links:
+- https://www.mygsn.co.uk/articles/category/news/
+- https://www.mygsn.co.uk/articles/what-is-hyrox-hyrox-nutrition-strategy/
+- https://www.mygsn.co.uk/articles/spring-sports-nutrition-diet/
+- https://www.mygsn.co.uk/articles/marathon-recovery-tips-manage-the-damage/
+- https://www.mygsn.co.uk/articles/homemade-greek-feast-mezze/
+- https://www.mygsn.co.uk/articles/category/fitness-lifestyle/
+- https://www.mygsn.co.uk/articles/harry-lightfoot-supplements-in-crossfit/
+- https://www.mygsn.co.uk/articles/gut-health-immunity-nutrition/
+- https://www.mygsn.co.uk/articles/super-antioxidant-chicken-salad/
+- https://www.mygsn.co.uk/articles/healthy-thai-recipe/
+
+Structured Data (Wikipedia):
+
+
+=== Scrape Session at 2025-05-11 22:18:44.769715 ===
+Target: office-groceries.com - https://office-groceries.com
+Resolved IP: 3.11.39.140
+Open Ports: [80, 443]
+Strategy: Static scrape
+Top Content:
+© 2025 Office Groceries. |Contact|Delivery Areas|Terms and Conditions|Blog|Privacy Policy|Site mapOffice-Groceries Ltd, 43 Church Street, Billericay, Essex, CM11 2SX. Company Reg: 09648027.
+Privacy Policy:
+This website uses cookies to deliver our services.By using our services, you agree to out use of cookies.Learn More
+No services found.
+Categories Found:
+- 
+- 
+- Fresh Milk Deliveries
+- Glass Milk Bottles
+- Fruit Boxes & Healthy Snacks
+- Pantry Aisle
+- Office Wellbeing
+- Sustainable Coffee
+- Wine Bar
+- Eco-Friendly Packaging
+- Office Crockery
+- Coffee Machines
+- 
+- Fresh Milk Deliveries
+- Glass Milk Bottles
+- Fruit Boxes & Healthy Snacks
+- Pantry Aisle
+- Office Wellbeing
+- Sustainable Coffee
+- Wine Bar
+- Eco-Friendly Packaging
+- Office Crockery
+- Coffee Machines
+- 0345 463 8863
+- Orders@office-groceries.com
+No locations found.
+Possible blog/news/article links:
+- https://blog.office-groceries.com/
+
+Structured Data (Wikipedia):
